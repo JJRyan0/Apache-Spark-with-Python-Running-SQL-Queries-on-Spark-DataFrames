@@ -1,0 +1,2 @@
+# Apache-Spark-with-Python-Running-SQL-Queries-on-Spark-DataFrames
+This notebook is designed to introduce some basic concepts and help get you familiar with using Spark in Python.  In this notebook, we will load and explore the titanic dataset. Specifically, this tutorial covers:      Loading data in memory     Creating SQLContext     Creating Spark DataFrame     Group data by columns     Operating on columns     Running SQL Queries from a Spark DataFrame
